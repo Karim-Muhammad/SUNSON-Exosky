@@ -1,0 +1,6 @@
+[submodule "AndroidNative/exosky-native-android"]
+    path = AndroidNative/exosky-native-android
+    url = https://github.com/Karim-Muhammad/AndroidNative-Exosky.git
+[submodule "Flutter/x_space"]
+    path = Flutter/x_space
+    url = https://github.com/KareemTantawi/x_space.git
